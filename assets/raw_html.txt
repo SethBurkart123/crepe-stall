@@ -63,7 +63,7 @@
                     </span>
                 </p>
 
-                <a href="https://buy.stripe.com/28ofZl8Vwcw3fXG144" class="">
+                <a target="_blank" href="https://buy.stripe.com/28ofZl8Vwcw3fXG144" class="">
                     <p class="w-full py-4 bg-blue-600 mt-8 rounded-xl text-white">
                        Buy
                     </p>
@@ -111,7 +111,7 @@
                     </span>
                 </p>
 
-                <a href="https://buy.stripe.com/dR628v8VwanVfXG9AB" class="">
+                <a target="_blank" href="https://buy.stripe.com/dR628v8VwanVfXG9AB" class="">
                     <p class="w-full py-4 bg-blue-600 mt-8 rounded-xl text-white">
                        Buy
                     </p>
